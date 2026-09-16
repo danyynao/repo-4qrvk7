@@ -1,8 +1,10 @@
 September 16, 2026
 
-<!-- notify 1/2 · TtPn6rne -->
-## Notification 1/2
-Round: Round 1
-To: jamie.n.finch@usthq.com, tiffani.montez@wellsfargo.com
-At: 2026-09-16 15:37:10
-Id: TtPn6rne
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: rumbricht@burgersmith.com, devilsriverwhitetails@yahoo.com
+At: 2026-09-16 15:37:22
+Id: DzyCIrcw
